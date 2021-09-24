@@ -7,3 +7,10 @@ def hellow_world():
 
 if __name__=="__main__":
     app.run(host='0.0.0.0',port=8080)
+
+Command prompt
+ssh-i  pem key from AWS
+sudo su
+git clone  https://github.com/STIRELLA2/FE595.git
+pip3 install flask
+python3 run_hello.py  on github
