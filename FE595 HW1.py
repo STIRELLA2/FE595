@@ -1,10 +1,5 @@
 
 #FE 595 HW 1: Spencer Tirella
-from flask import Flask
-app = Flask(__name__)
-
-@app.route('/hello',methods=['GET'])
-
 
 import numpy as np
 
@@ -30,5 +25,3 @@ plot.grid(True, which='both')
 plot.axhline(y=0, color='k')
 plot.legend(['sin(x)', 'cos(x)'])
 plot.show()
-if __name__=="__main__":
-    app.run(host='0.0.0.0',port=8080)
