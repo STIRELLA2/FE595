@@ -1,0 +1,20 @@
+Git pull
+Cd = change directory
+
+
+Cntrl c = quits out
+cntrl a+d
+Screen
+Run python3 .py
+Close command prompt
+Cntrl a + d
+
+Screen -ls to see all screens
+
+Update screen that already exists
+screen -r s####
+
+
+ls -lah = directory find
+cd = into directory
+type in file name
